@@ -20,5 +20,6 @@ module.exports = {
       heebo: ["Heebo", "sans-serif"],
     },
   },
-  plugins: [require("daisyui")],
+  plugins: [],
 };
+
